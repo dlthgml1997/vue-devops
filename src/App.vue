@@ -1,8 +1,6 @@
 <template>
-  <p>
-    <img alt="Vue logo" src="./assets/logo.png" />
-    <HelloWorld msg="Welcome to Sohee Vue.js App" />
-  </p>
+  <img alt="Vue logo" src="./assets/logo.png" />
+  <HelloWorld msg="Welcome to Sohee Vue.js App" />
 </template>
 
 <script>
